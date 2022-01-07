@@ -1,0 +1,6 @@
+geturl = http://httpbin.org
+login = masha
+password_good = 2121
+password_bad = 2020
+freeform = My name is Mariya
+Text_decode = U2Fsbmlrb3ZhIE1hcml5YQ==
